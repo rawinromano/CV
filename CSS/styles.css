@@ -1,0 +1,38 @@
+  content{
+    max-width: 500px;
+    margin: auto;
+    }
+
+  a:hover{
+    background-color: #eac100;
+    }
+
+  a{
+    color: #10316b;
+    }
+
+  body{
+    background-color: #dee1ec;
+    color: #10316b;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+    }
+
+  hr{
+    border-color: #eac100;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    }
+
+  h1{
+    font-family: 'Sacramento', sans-serif;
+    font-size: 35px;
+    color: #0b8457;
+    }
+
+    h2,h3{
+      font-family: 'Montserrat', sans-serif;
+      color: #0b8457;
+      }
